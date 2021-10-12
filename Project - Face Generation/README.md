@@ -5,4 +5,4 @@ It is trained on faces dataset [CelebFaces Attributes Dataset (CelebA)](http://m
 
 THe image below shows the ouput after training for 20 epochs.
 
-<img src="./sample.jpg">
+<img src="./assets/sample.png">
